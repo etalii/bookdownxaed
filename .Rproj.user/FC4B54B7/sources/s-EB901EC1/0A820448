@@ -1,0 +1,26 @@
+{
+    "id": "0A820448",
+    "path": "~/bookdownxaed/01-intro.Rmd",
+    "project_path": "01-intro.Rmd",
+    "type": "r_markdown",
+    "hash": "2453490901",
+    "contents": "",
+    "dirty": false,
+    "created": 1644703525258.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "48,248",
+        "scrollLine": "45"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1644703939,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1644703939157,
+    "read_only": false,
+    "read_only_alternatives": []
+}
